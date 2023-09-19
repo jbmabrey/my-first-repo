@@ -1,2 +1,1 @@
-# my-first-repo
-Practice Account for learning Git
+/usr/bin/bash: line 1: wq: command not found
